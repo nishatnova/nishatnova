@@ -2,7 +2,7 @@
 
 I am Nishat Anzum Nova, a dedicated and enthusiastic Developer with 2 years of hands-on experience in  web development, including 1.5 years of professional experience. My expertise lies in backend development with Laravel, complemented by knowledge of Node.js and frontend technologies such as Tailwind CSS and Next.js. I am passionate about building scalable, efficient web applications, staying up to date with modern tools and technologies, and contributing to collaborative projects that drive real impact.
 
-![I am GitHub Readme Generator's creator](https://ibb.co.com/DgsT8fbX)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/DgsT8fbX/Blue-and-White-Minimalist-Business-Consultant-Linked-In-Background-Photo.jpg)
 <br/>
 <br/>
 <p>
