@@ -5,9 +5,7 @@ I am Nishat Anzum Nova, a dedicated and enthusiastic Developer with 2 years of h
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/8nS4r741/cover.png)
 <br/>
 <br/>
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&… Frontend+Developer" alt="Typing SVG" />
-</p>
+
 <p>
 I'm a Front-End Developer with a knack for creating responsive, user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring seamless user experiences. My keen eye for graphic design helps enhance the visual appeal of my projects.
 </p>
