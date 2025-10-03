@@ -66,6 +66,7 @@ Tools: `Docker` `Git` `Postman`
 </tr>
 </table>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -114,6 +115,7 @@ Tools: `Docker` `Git` `Postman`
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -129,7 +131,7 @@ Tools: `Docker` `Git` `Postman`
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishatnova&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-
+---
 
 ## 🎯 Next Learning Focus
 
@@ -138,6 +140,7 @@ Tools: `Docker` `Git` `Postman`
 - 🧪 Exploring **Test-Driven Development (TDD)**
 - 🚀 Contributing to **Open Source Laravel Packages**
 
+---
 
 ## 📫 Connect With Me
 
@@ -156,6 +159,7 @@ Tools: `Docker` `Git` `Postman`
   </a>
 </p>
 
+---
 
 💭 Quote of the Day
 <p align="center">
