@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/github/followers/nishatnova?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
+<div align="center">
 ---
 
 ## 🚀 About Me
@@ -30,6 +31,8 @@
 - 🌱 Exploring **Microservices Architecture** and ** Redis Caching** 💡
 - 🎯 Goal: Contribute to open-source Laravel ecosystem ⚡
 - ⚡ Fun fact: I debug better with coffee ☕
+
+</div>
 
 ---
 
