@@ -27,8 +27,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Enterprise-level Laravel Applications** 🌿
-- 🌱 Exploring **Microservices Architecture** and **Advanced Redis Caching** 💡
-- 💡 Passionate about **Clean Code, Design Patterns, and Scalable Architecture** 🎯
+- 🌱 Exploring **Microservices Architecture** and ** Redis Caching** 💡
 - 🎯 Goal: Contribute to open-source Laravel ecosystem ⚡
 - ⚡ Fun fact: I debug better with coffee ☕
 
@@ -42,8 +41,7 @@
 
 **🔭 Currently Working On**
 - Enterprise-level Laravel Applications
-- Microservices Architecture
-- Advanced Redis Caching
+- Redis Caching
 
 **🎯 Specialization**
 - Laravel & PHP Development
@@ -60,7 +58,7 @@ Backend: `PHP` `Laravel` `Node.js`
 
 Frontend: `JavaScript` `React` `Tailwind CSS`
 
-Database: `MySQL` `PostgreSQL` `Redis`
+Database: `MySQL` `MongoDB` `Redis`
 
 Tools: `Docker` `Git` `Postman`
 
@@ -109,7 +107,7 @@ Tools: `Docker` `Git` `Postman`
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
 </p>
 
-### Programming Languages
+### Other Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -136,47 +134,10 @@ Tools: `Docker` `Git` `Postman`
 
 ---
 
-## 🏆 Featured Projects
 
-### 🌟 Project 1: [E-Commerce Platform]
-**Tech Stack:** Laravel, MySQL, Redis, Vue.js  
-**Description:** Built a full-featured e-commerce platform with payment integration, inventory management, and admin dashboard.  
-**Highlights:**
-- Implemented caching strategies reducing page load by 60%
-- Designed scalable database schema handling 100k+ products
-- Integrated Stripe payment gateway
+## 🎯 Next Learning Focus
 
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
-
-### 🌟 Project 2: [Task Management System]
-**Tech Stack:** Laravel, PostgreSQL, Tailwind CSS, Alpine.js  
-**Description:** Real-time collaborative task management application with team workflows.  
-**Highlights:**
-- Built RESTful APIs with comprehensive documentation
-- Implemented role-based access control (RBAC)
-- Real-time notifications using WebSockets
-
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
-
-### 🌟 Project 3: [Content Management System]
-**Tech Stack:** Laravel, MySQL, React, Redux  
-**Description:** Custom CMS with drag-and-drop page builder and SEO optimization.  
-**Highlights:**
-- Developed custom page builder with React
-- Implemented SEO-friendly routing and meta management
-- Optimized queries achieving sub-100ms response times
-
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
-
-## 🎯 Current Focus
-
-- 📚 Learning **Laravel 11** and **Advanced Design Patterns**
+- 📚 Learning **Laravel 12** and **Advanced Design Patterns**
 - 🔧 Building with **Microservices Architecture**
 - 🧪 Exploring **Test-Driven Development (TDD)**
 - 🚀 Contributing to **Open Source Laravel Packages**
