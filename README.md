@@ -24,7 +24,6 @@
 
 
 ---
-<div align="center">
   
 ## 🚀 About Me
 
@@ -32,8 +31,6 @@
 - 🌱 Exploring **Microservices Architecture** and ** Redis Caching** 💡
 - 🎯 Goal: Contribute to open-source Laravel ecosystem ⚡
 - ⚡ Fun fact: I debug better with coffee ☕
-
-</div>
 
 ---
 
