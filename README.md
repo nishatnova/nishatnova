@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Laravel Developer | Building Scalable Web Applications
+  Full-Stack Developer | Building Scalable Web Applications
 </h3>
 
 <p align="center">
