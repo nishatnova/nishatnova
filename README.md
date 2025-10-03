@@ -162,18 +162,14 @@ Tools: `Docker` `Git` `Postman`
 
 ---
 
-## 💭 Quote of the Day
-
+💭 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
 <p align="center">
   <i>⭐ From <a href="https://github.com/nishatnova">nishatnova</a> with ❤️</i>
 </p>
