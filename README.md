@@ -22,9 +22,10 @@
   <img src="https://img.shields.io/github/followers/nishatnova?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
-<div align="center">
----
 
+---
+<div align="center">
+  
 ## 🚀 About Me
 
 - 🔭 Currently working on **Enterprise-level Laravel Applications** 🌿
