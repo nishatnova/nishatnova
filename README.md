@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🚀 About Me
 
 - 🔭 Currently working on **Enterprise-level Laravel Applications** 🌿
@@ -31,8 +31,10 @@
 - 🎯 Goal: Contribute to open-source Laravel ecosystem ⚡
 - ⚡ Fun fact: I debug better with coffee ☕
 
+</p>
 ---
 
+<p align="center">
 ## 💼 Professional Highlights
 
 <table>
@@ -66,6 +68,7 @@ Tools: `Docker` `Git` `Postman`
 </tr>
 </table>
 
+</p>
 ---
 
 ## 🛠️ Tech Stack
