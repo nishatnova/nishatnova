@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <em>Dedicated and enthusiastic developer with 2 years of hands-on experience in web development with Laravel, including 1.5 years of professional expertise in crafting robust, scalable solutions.</em>
+  <em>Dedicated developer with 2 years of hands-on experience in web development with Laravel, including 1.5 years of professional expertise in crafting robust, scalable solutions.</em>
 </p>
 
 <!-- Profile Stats -->
