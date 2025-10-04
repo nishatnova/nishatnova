@@ -135,7 +135,7 @@ Tools: `Docker` `Git` `Postman`
 
 ## 🎯 Next Learning Focus
 
-- 📚 Learning **Laravel 12** and **Advanced Design Patterns**
+- 📚 Learning **Laravel 12** and **Advanced Design Patterns and frontend** 
 - 🔧 Building with **Microservices Architecture**
 - 🧪 Exploring **Test-Driven Development (TDD)**
 - 🚀 Contributing to **Open Source Laravel Packages**
