@@ -60,7 +60,7 @@ Frontend: `JavaScript` `React` `Tailwind CSS`
 
 Database: `MySQL` `MongoDB` `Redis`
 
-Tools: `Docker` `Git` `Postman`
+Tools:  `Git` `Postman`
 
 </td>
 </tr>
