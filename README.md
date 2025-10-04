@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Enterprise-level Laravel Applications** 🌿
-- 🌱 Exploring **Microservices Architecture** and ** Redis Caching** 💡
+- 🌱 Exploring **Advance Frontend Integration** and ** Redis Caching** 💡
 - 🎯 Goal: Contribute to open-source Laravel ecosystem ⚡
 - ⚡ Fun fact: I debug better with coffee ☕
 
