@@ -33,6 +33,7 @@
 
 ---
 <div align="center">
+  
 ## 💼 Professional Highlights
 
 <table>
