@@ -32,7 +32,7 @@
 - ⚡ Fun fact: I debug better with coffee ☕
 
 ---
-
+<div align="center">
 ## 💼 Professional Highlights
 
 <table>
@@ -66,6 +66,7 @@ Tools:  `Git` `Postman`
 </tr>
 </table>
 
+</div>
 ---
 
 ## 🛠️ Tech Stack
