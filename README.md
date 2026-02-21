@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://i.ibb.co.com/8nS4r741/cover.png" alt="Nishat Anzum Nova - Full Stack Laravel Developer" width="100%">
 </div>
- 
 <!-- Animated Typing Effect Title -->
 <h1 align="center">
   Hi 👋, I'm Nishat Anzum Nova
