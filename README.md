@@ -10,11 +10,9 @@
 <h3 align="center">
   Full-Stack Developer | Building Scalable Web Applications
 </h3>
-
 <p align="center">
   <em>Dedicated developer with 2 years of hands-on experience in web development with Laravel, including 1.5 years of professional expertise in crafting robust, scalable solutions.</em>
 </p>
-
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishatnova&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
